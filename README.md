@@ -1,10 +1,14 @@
 <div align="center">
 
-![Almaty, AI systems and connected engineering](assets/almaty-ai-network.png)
+![Minimal animated Almaty mountain skyline](assets/almaty-mountains.gif)
 
 # Artem Letyushev
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=20C997&center=true&vCenter=true&width=760&lines=Tech+Project+Manager+%C2%B7+AI+Product+Builder;I+turn+ambiguity+into+systems+that+ship;Former+Android+developer.+Still+building.)](https://git.io/typing-svg)
+Tech Project Manager · AI Product Builder · former Android developer
+
+**ex-Yandex.Money · ex-MTS · now building AI/Data products at Twinby**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=20C997&center=true&vCenter=true&width=720&lines=I+turn+ambiguity+into+systems+that+ship;I+build+the+thing+around+the+thing;Former+Android+developer.+Still+building.)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-artemletya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artemletya/)
 [![Telegram](https://img.shields.io/badge/Telegram-@artemletya-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/artemletya)
@@ -13,11 +17,16 @@
 
 **Almaty, Kazakhstan** · born in **Ulyanovsk** · shaped by **Samara** and **Saint Petersburg**
 
+[![AI-STP](https://img.shields.io/badge/AI--STP-setup_catalog-20C997?style=for-the-badge&logo=github&logoColor=white)](https://ai-stp.aiguild.space/)
+[![Job FTCH](https://img.shields.io/badge/Job_FTCH-AI_job_pipeline-F59F00?style=for-the-badge&logo=github&logoColor=181717)](https://job-ftch.aiguild.space/)
+
 </div>
 
 ## I build the system around the code
 
-I lead AI, Data Science, backend and cross-functional teams — and still build tools myself. My useful zone is the messy middle between **business outcomes, architecture and delivery**: the place where a roadmap must become APIs, teams and releases.
+I like solving difficult problems and, as a side effect, overcomplicating simple ones. I lead AI, Data Science, backend and cross-functional teams — and still build tools myself. My useful zone is the messy middle between **business outcomes, architecture and delivery**: the place where a roadmap must become APIs, teams and releases.
+
+Fan of fantasy, anime and the Emperor. Praise be to the Emperor. I also have a very fat cat; feel free to message me for photos.
 
 ```text
 ambiguous problem → product shape → architecture → delivery system → measurable outcome
@@ -32,7 +41,8 @@ ambiguous problem → product shape → architecture → delivery system → mea
 
 ## Things I am building
 
-- **[job_ftch](https://github.com/letya999/job_ftch)** — async pipeline that collects AI and tech jobs from Telegram and career sites. ![Stars](https://img.shields.io/github/stars/letya999/job_ftch?style=flat-square&color=20c997)
+- **[AI-STP](https://ai-stp.aiguild.space/)** — catalog and CLI for selecting, verifying and installing complete AI-agent setups.
+- **[Job FTCH](https://job-ftch.aiguild.space/)** — async pipeline that collects AI and tech jobs from Telegram and career sites. ![Stars](https://img.shields.io/github/stars/letya999/job_ftch?style=flat-square&color=20c997)
 - **[whipnext](https://github.com/letya999/whipnext)** — tiny cross-platform overlay that nudges coding-agent sessions forward. ![Stars](https://img.shields.io/github/stars/letya999/whipnext?style=flat-square&color=20c997)
 - **[grill-my-resume-as-manager](https://github.com/letya999/grill-my-resume-as-manager)** — an uncompromising resume diagnostic for PM and Product roles. ![Stars](https://img.shields.io/github/stars/letya999/grill-my-resume-as-manager?style=flat-square&color=20c997)
 - **[memory_bank_setup](https://github.com/letya999/memory_bank_setup)** — documentation template for small open-source projects built with AI agents. ![Stars](https://img.shields.io/github/stars/letya999/memory_bank_setup?style=flat-square&color=20c997)

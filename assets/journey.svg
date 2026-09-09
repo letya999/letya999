@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="210" viewBox="0 0 1000 210" role="img" aria-labelledby="title desc">
+  <title id="title">Artem's route from Ulyanovsk to Almaty</title>
+  <desc id="desc">An animated route passing through Ulyanovsk, Samara, Saint Petersburg and Almaty.</desc>
+  <defs>
+    <linearGradient id="route" x1="0" x2="1">
+      <stop offset="0" stop-color="#339af0"/>
+      <stop offset="0.55" stop-color="#20c997"/>
+      <stop offset="1" stop-color="#f59f00"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1000" height="210" rx="16" fill="#0d1117"/>
+  <path id="track" d="M95 132 C215 42 325 166 450 92 S700 50 900 118" fill="none" stroke="#30363d" stroke-width="18" stroke-linecap="round" opacity=".55"/>
+  <path d="M95 132 C215 42 325 166 450 92 S700 50 900 118" fill="none" stroke="url(#route)" stroke-width="3" stroke-linecap="round" stroke-dasharray="8 10">
+    <animate attributeName="stroke-dashoffset" values="0;-36" dur="2.8s" repeatCount="indefinite"/>
+  </path>
+  <g fill="#f0f6fc" font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">
+    <g transform="translate(95 132)"><circle r="8" fill="#339af0" filter="url(#glow)"/><text y="38" font-size="16">Ulyanovsk</text><text y="57" fill="#8b949e" font-size="12">origin</text></g>
+    <g transform="translate(300 112)"><circle r="8" fill="#2f9eeb" filter="url(#glow)"/><text y="-25" font-size="16">Samara</text><text y="-8" fill="#8b949e" font-size="12">formative years</text></g>
+    <g transform="translate(565 69)"><circle r="8" fill="#20c997" filter="url(#glow)"/><text y="38" font-size="16">Saint Petersburg</text><text y="57" fill="#8b949e" font-size="12">university · early career</text></g>
+    <g transform="translate(900 118)"><circle r="10" fill="#f59f00" filter="url(#glow)"><animate attributeName="r" values="8;12;8" dur="2s" repeatCount="indefinite"/></circle><text y="-30" font-size="18" font-weight="700">Almaty</text><text y="-11" fill="#8b949e" font-size="12">building now</text></g>
+  </g>
+  <circle r="5" fill="#ffffff" filter="url(#glow)">
+    <animateMotion dur="6s" repeatCount="indefinite"><mpath href="#track"/></animateMotion>
+  </circle>
+</svg>
+

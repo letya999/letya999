@@ -67,21 +67,6 @@ I started as an **Android developer**, moved into project and delivery leadershi
 
 I also run **[AI Engineers Guild](https://t.me/ai_engineers_guild)**, write practical and occasionally heretical notes in **[Junior AI PM](https://t.me/junior_pm)** and on **[Habr](https://habr.com/ru/users/Renewal_Studio/)**, and organize offline meetups in Almaty.
 
-## GitHub signal
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=letya999&theme=github_dark" alt="Artem's GitHub profile summary" />
-<img height="170" src="https://streak-stats.demolab.com?user=letya999&theme=github-dark-blue&hide_border=true&ring=20C997&fire=F59F00&currStreakLabel=20C997" alt="Artem's contribution streak" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/letya999/letya999/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/letya999/letya999/output/github-contribution-grid-snake.svg">
-  <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/letya999/letya999/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
 <details>
 <summary><b>The human route behind the work</b></summary>
 
